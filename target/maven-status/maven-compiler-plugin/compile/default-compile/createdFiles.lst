@@ -1,5 +1,11 @@
 com/adrian/app/App.class
+com/adrian/app/ui/component/Border.class
+com/adrian/app/engine/TuiEngine.class
+com/adrian/app/ui/impl/Box.class
+com/adrian/app/enums/BorderType.class
+com/adrian/app/ui/Coordinates.class
 com/adrian/app/terminal/MouseHandler.class
 com/adrian/app/terminal/ScreenBuffer.class
 com/adrian/app/util/TerminalUtil.class
+com/adrian/app/ui/UiElement.class
 com/adrian/app/enums/AnsiColor.class

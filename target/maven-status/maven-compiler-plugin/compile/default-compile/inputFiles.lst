@@ -1,5 +1,11 @@
 /home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/App.java
+/home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/engine/TuiEngine.java
 /home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/enums/AnsiColor.java
+/home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/enums/BorderType.java
 /home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/terminal/MouseHandler.java
 /home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/terminal/ScreenBuffer.java
+/home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/ui/Coordinates.java
+/home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/ui/UiElement.java
+/home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/ui/component/Border.java
+/home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/ui/impl/Box.java
 /home/adrian/programming/java/maven/bank-app/bank-app/src/main/java/com/adrian/app/util/TerminalUtil.java
