@@ -1,6 +1,6 @@
 package com.adrian.app.ui;
 
-public class Coordinates {
+public class Coordinate {
   
   private int x;
   private int y;
